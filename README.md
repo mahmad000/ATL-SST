@@ -9,9 +9,7 @@ Spectral-Spatial Transformer with Active Transfer Learning for Hyperspectral Ima
 
 # Hyperspectral datasets
 
-Several public hyperspectral datasets are available on the [EHU](https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes). Users can download those beforehand. 
-Several public hyperspectral datasets are available on the [WHU](https://rsidea.whu.edu.cn/resource_WHUHi_sharing.htm). Users can download those beforehand. 
-Several public hyperspectral datasets are available on the [QHU](https://github.com/Hang-Fu/QUH-classification-dataset)](https://rsidea.whu.edu.cn/resource_WHUHi_sharing.htm). Users can download those beforehand. 
+# Several public hyperspectral datasets are available on the [EHU](https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes), [WHU](https://rsidea.whu.edu.cn/resource_WHUHi_sharing.htm), and [QHU](https://rsidea.whu.edu.cn/resource_WHUHi_sharing.htm). User can download these beforehand. 
 
 An example dataset folder has the following structure:
 ```
