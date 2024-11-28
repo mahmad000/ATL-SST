@@ -1,0 +1,166 @@
+{
+    "initial_training_samples": 4774,
+    "initial_Train_class_counts": {
+        "class_0": 1391,
+        "class_1": 897,
+        "class_2": 69,
+        "class_3": 49,
+        "class_4": 1088,
+        "class_5": 1280
+    },
+    "initial_validation_samples": 472672,
+    "initial_Val_class_counts": {
+        "class_0": 137684,
+        "class_1": 88859,
+        "class_2": 6822,
+        "class_3": 4835,
+        "class_4": 107779,
+        "class_5": 126693
+    },
+    "Test_samples": 477447,
+    "class_Test_counts": {
+        "class_0": 139075,
+        "class_1": 89756,
+        "class_2": 6892,
+        "class_3": 4883,
+        "class_4": 108868,
+        "class_5": 127973
+    },
+    "iterations": [
+        {
+            "iteration": 1,
+            "training_samples": 4774,
+            "class_train_counts": {
+                "class_0": 1391,
+                "class_1": 897,
+                "class_2": 69,
+                "class_3": 49,
+                "class_4": 1088,
+                "class_5": 1280
+            },
+            "validation_samples": 472672,
+            "class_Val_counts": {
+                "class_0": 137684,
+                "class_1": 88859,
+                "class_2": 6822,
+                "class_3": 4835,
+                "class_4": 107779,
+                "class_5": 126693
+            },
+            "Test_samples": 477447,
+            "class_Test_counts": {
+                "class_0": 139075,
+                "class_1": 89756,
+                "class_2": 6892,
+                "class_3": 4883,
+                "class_4": 108868,
+                "class_5": 127973
+            }
+        },
+        {
+            "iteration": 2,
+            "training_samples": 14227,
+            "class_train_counts": {
+                "class_0": 4536,
+                "class_1": 2606,
+                "class_2": 822,
+                "class_3": 60,
+                "class_4": 2258,
+                "class_5": 3945
+            },
+            "validation_samples": 463219,
+            "class_Val_counts": {
+                "class_0": 134539,
+                "class_1": 87150,
+                "class_2": 6069,
+                "class_3": 4824,
+                "class_4": 106609,
+                "class_5": 124028
+            }
+        },
+        {
+            "iteration": 3,
+            "training_samples": 23491,
+            "class_train_counts": {
+                "class_0": 7215,
+                "class_1": 3768,
+                "class_2": 1271,
+                "class_3": 68,
+                "class_4": 3208,
+                "class_5": 7961
+            },
+            "validation_samples": 453955,
+            "class_Val_counts": {
+                "class_0": 131860,
+                "class_1": 85988,
+                "class_2": 5620,
+                "class_3": 4816,
+                "class_4": 105659,
+                "class_5": 120012
+            }
+        },
+        {
+            "iteration": 4,
+            "training_samples": 32570,
+            "class_train_counts": {
+                "class_0": 10601,
+                "class_1": 4829,
+                "class_2": 1680,
+                "class_3": 234,
+                "class_4": 3950,
+                "class_5": 11276
+            },
+            "validation_samples": 444876,
+            "class_Val_counts": {
+                "class_0": 128474,
+                "class_1": 84927,
+                "class_2": 5211,
+                "class_3": 4650,
+                "class_4": 104917,
+                "class_5": 116697
+            }
+        },
+        {
+            "iteration": 5,
+            "training_samples": 41467,
+            "class_train_counts": {
+                "class_0": 13693,
+                "class_1": 6795,
+                "class_2": 2206,
+                "class_3": 255,
+                "class_4": 4848,
+                "class_5": 13670
+            },
+            "validation_samples": 435979,
+            "class_Val_counts": {
+                "class_0": 125382,
+                "class_1": 82961,
+                "class_2": 4685,
+                "class_3": 4629,
+                "class_4": 104019,
+                "class_5": 114303
+            }
+        },
+        {
+            "iteration": 6,
+            "training_samples": 50186,
+            "class_train_counts": {
+                "class_0": 16697,
+                "class_1": 7682,
+                "class_2": 2809,
+                "class_3": 278,
+                "class_4": 6394,
+                "class_5": 16326
+            },
+            "validation_samples": 427260,
+            "class_Val_counts": {
+                "class_0": 122378,
+                "class_1": 82074,
+                "class_2": 4082,
+                "class_3": 4606,
+                "class_4": 102473,
+                "class_5": 111647
+            }
+        }
+    ]
+}
