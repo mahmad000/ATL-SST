@@ -1,9 +1,8 @@
-# ATL-SST
-Spectral-Spatial Transformer with Active Transfer Learning for Hyperspectral Image Classification
+# ATL-SST: Transformer-Driven Active Transfer Learning for Cross-Hyperspectral Image Classification
 
-# [2024] Spectral-Spatial Transformer with Active Transfer Learning for Hyperspectral Image Classification
+# [2025] Transformer-Driven Active Transfer Learning for Cross-Hyperspectral Image Classification
 
-## This demo is associated with [Spectral-Spatial Transformer with Active Transfer Learning for Hyperspectral Image Classification](https://arxiv.org/abs/2411.18115), Submitted for publication.
+## This demo is associated with [Transformer-Driven Active Transfer Learning for Cross-Hyperspectral Image Classification](https://arxiv.org/abs/2411.18115), Submitted for publication.
 
 ![SST-ATL](https://github.com/user-attachments/assets/4915b3c9-f8ec-440a-8d74-38dcf02ea6bc)
 
