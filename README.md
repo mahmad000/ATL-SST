@@ -3,10 +3,9 @@ Spectral-Spatial Transformer with Active Transfer Learning for Hyperspectral Ima
 
 # [2024] Spectral-Spatial Transformer with Active Transfer Learning for Hyperspectral Image Classification
 
-## This demo is associated with [Spectral-Spatial Transformer with Active Transfer Learning for Hyperspectral Image Classification](https://arxiv.org/abs/2411.18115), Submitted for publication, 2024.
+## This demo is associated with [Spectral-Spatial Transformer with Active Transfer Learning for Hyperspectral Image Classification](https://arxiv.org/abs/2411.18115), Submitted for publication.
 
-![SST-ATL](https://github.com/user-attachments/assets/5faf0ff7-4221-44ac-90e5-e503b2753d90)
-
+![SST-ATL](https://github.com/user-attachments/assets/4915b3c9-f8ec-440a-8d74-38dcf02ea6bc)
 
 # Hyperspectral datasets
 
